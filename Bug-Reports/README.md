@@ -47,6 +47,9 @@ Zgłoszenia błędów zostały przygotowane w formie raportów zawierających:
 - priorytet / severity
 - środowisko testowe
 
+## Podgląd (Screenshot)
+<img width="1185" height="889" alt="image" src="https://github.com/user-attachments/assets/94be4e27-bc75-4372-898d-adb962245863" /> <img width="1142" height="844" alt="image" src="https://github.com/user-attachments/assets/88074c63-d62a-44fd-a916-5aa45cadc1d6" />
+
 ## Narzędzia
 
 - Jira - dokumentacja i zarządzanie zgłoszeniami błędów
