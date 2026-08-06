@@ -51,6 +51,9 @@ Przypadki testowe zostały przygotowane w arkuszu Excel i zawierają:
 * oczekiwany rezultat
 * status wykonania
 
+## Podgląd (screenshot)
+<img width="1515" height="788" alt="image" src="https://github.com/user-attachments/assets/57dfd78c-0fd7-4f94-a3b6-0bbd8d1baac9" />
+
 ## Narzędzia
 
 * Excel / Google Sheets - dokumentacja przypadków testowych
